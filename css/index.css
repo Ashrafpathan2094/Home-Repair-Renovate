@@ -1,9 +1,9 @@
 body {
 
-    background-color: rgb(28, 27, 27);
-    font-family: 'Raleway', sans-serif;
+    background-color: rgb(28, 27, 27) !important;
+    font-family: 'Raleway', sans-serif  !important;
 
-    color: rgb(208, 202, 202);
+    color: rgb(208, 202, 202) !important;
 }
 
 .header{
